@@ -7,7 +7,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/blurple?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
