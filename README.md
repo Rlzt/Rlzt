@@ -9,4 +9,4 @@
 ___
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" width="30px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="30px"/>
