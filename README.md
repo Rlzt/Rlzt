@@ -20,3 +20,5 @@ ___
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dot-wuid&theme=radical&hide_border=true&fire=EB5454&background=33%2C7612EB%2CEBCA8D)](https://git.io/streak-stats)
+
+[![wuid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dot-wuid)](https://github.com/anuraghazra/github-readme-stats)
