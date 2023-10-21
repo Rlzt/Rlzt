@@ -1,5 +1,6 @@
+<img src="https://images-ext-1.discordapp.net/external/MDF8it01wMQAn2NgL20kBPgJBOaYbxipGF4OzcFbods/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/895788406347558922/93fdf2550a3e544cebc4ea510c2fb21e.png" width="64px"/>
+
 <img src="https://komarev.com/ghpvc/?username=dot-wuid&style=flat-square&color=blue" alt=""/>
-<img src="https://images-ext-1.discordapp.net/external/MDF8it01wMQAn2NgL20kBPgJBOaYbxipGF4OzcFbods/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/895788406347558922/93fdf2550a3e544cebc4ea510c2fb21e.png" width="128px"/>
 <h1>
   hey there
   <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px"/>
