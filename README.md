@@ -15,3 +15,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="31px"/>
 </div>
+
+---
+
+### :fire: My Stats :
