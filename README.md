@@ -19,4 +19,4 @@ ___
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dot-wuid&theme=dark&background=69420)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=radical&hide_border=true&fire=EB5454&background=33%2C7612EB%2CEBCA8D)](https://git.io/streak-stats)
