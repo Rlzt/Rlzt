@@ -1,4 +1,4 @@
-<img src="https://images-ext-1.discordapp.net/external/MDF8it01wMQAn2NgL20kBPgJBOaYbxipGF4OzcFbods/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/895788406347558922/93fdf2550a3e544cebc4ea510c2fb21e.png" width="64px"/>
+
 
 <h1>
   hey there
@@ -12,7 +12,6 @@ ___
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="31px"/>
