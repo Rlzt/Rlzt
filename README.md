@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Working on A few Discord bots, and Websites<br>I am also learning a few new languages, and learning finnish in my freetime.<br><br>Hmu if u want help with python related stuff<br>: jqm1e (discord)
+Im Working on A few Discord bots, and Websites<br>I am also learning a few new languages, and learning finnish in my freetime.<br><br>Hmu if u want help with python related stuff<br>: @jamiee on troetbu.de
 
 
 ## 🌐 Socials:
